@@ -8,13 +8,21 @@ The workshop will be "hands-on", with a mix of live coding that you can follow a
 
 See the [Installation Guide](installation.md) and [Course Material](course_material.md) tabs for the learning materials.
 
+!!! tip "Essential Information"
+    * Date: 8th March 2023
+    * Time: 10:00 - 13:00 AEDT
+    * Location: Monash University Caufield Campus, Room H921.
+    * Who: Graduate Students and researchers. **You don't need to have any previous knowledge of the tools that will be presented at the workshop**
+    * Requirements: Bring a Mac, Windows or Linux computer with the [required software installed](installation.md) 
+    * Email Contact: lachlan DOT deer AT gmail DOT com
+
 ## Learning Objectives
 
 There are 4 objectives for the workshop:
 
 * Prepare a set of documents for further textual analysis.
 * Compute sentiment (i.e. the positivity or negativity) for each text within a set of texts.
-* Estimate a Topic Model to identify a set of unknown topics from a set of texts.
+* Estimate a Topic Model to identify a set of topics discussed within a set of texts.
 * Visualize and intuitively explain the output from a Topic Model.
 
 ## Workshop Schedule

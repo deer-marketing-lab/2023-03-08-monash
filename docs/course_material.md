@@ -28,13 +28,10 @@ Some (very) recent work using text in health economics and marketing:
 * "[Mis(sed) Diagnosis: Physician Decision Making and ADHD](https://www.kellimarquardt.com/s/Marquardt_JMP_Feb2023.pdf)". Kelli Marquardt. Working Paper.
 * "[Physician Practice Style for Mental Health Conditions: The Case of ADHD](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4138462)". Kelli Marquardt. Working Paper
 
-## Data for Workshop
 
-Will be provided closer to the workshop date.
+## Code & Data
 
-## Code
-
-Starter codes to get us going will be provided closer to the workshop date.
+Starter codes: click [here](../assets/starter_code.zip).
 
 Instructor's codes will be posted at the conclusion of the workshop.
 

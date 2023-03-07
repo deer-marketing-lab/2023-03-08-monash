@@ -37,12 +37,15 @@ Open RStudio and copy and paste this code chunk into the console:
 to_install <-
     c('tidyverse', 
         'tidytext',  
-        'textstem',  
         'tokenizers', 
         'reshape2', 
         'wordcloud', 
         'vader',
-        'stm'
+        'stm',
+        'yardtick',
+        'textstem',
+        'textdata',
+        'stringr'
     )
 
 install.packages(to_install)

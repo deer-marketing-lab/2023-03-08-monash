@@ -4,7 +4,8 @@
 
 Starter codes: click [here](https://github.com/deer-marketing-lab/2023-03-08-monash/raw/main/assets/starter_code.zip).
 
-Instructor's codes will be posted at the conclusion of the workshop.
+Instructor Codes: click [here](https://github.com/deer-marketing-lab/2023-03-08-monash/raw/main/assets/instructor.zip)
+
 
 ## Background Reading
 
